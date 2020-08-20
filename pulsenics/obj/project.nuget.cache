@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "mL0Dzf4uMUAVKEgOnkPh+mG2RZ8zsRGoyC6ZTmwtsMfeThF+GSU+wo6itZ/ZbiMyeiM444C8jjpG8S74Hf1KFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cocoz\\source\\repos\\pulsenics\\pulsenics\\pulsenics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cocoz\\.nuget\\packages\\bouncycastle\\1.8.3.1\\bouncycastle.1.8.3.1.nupkg.sha512",
+    "C:\\Users\\cocoz\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",
+    "C:\\Users\\cocoz\\.nuget\\packages\\k4os.compression.lz4\\1.1.11\\k4os.compression.lz4.1.1.11.nupkg.sha512",
+    "C:\\Users\\cocoz\\.nuget\\packages\\k4os.compression.lz4.streams\\1.1.11\\k4os.compression.lz4.streams.1.1.11.nupkg.sha512",
+    "C:\\Users\\cocoz\\.nuget\\packages\\k4os.hash.xxhash\\1.0.6\\k4os.hash.xxhash.1.0.6.nupkg.sha512",
+    "C:\\Users\\cocoz\\.nuget\\packages\\mysql.data\\8.0.21\\mysql.data.8.0.21.nupkg.sha512",
+    "C:\\Users\\cocoz\\.nuget\\packages\\ssh.net\\2016.1.0\\ssh.net.2016.1.0.nupkg.sha512",
+    "C:\\Users\\cocoz\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\cocoz\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\cocoz\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\cocoz\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\cocoz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
